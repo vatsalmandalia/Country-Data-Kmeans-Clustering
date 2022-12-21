@@ -1,7 +1,10 @@
-# Country-Data-Kmeans-Clustering
-This repository contains the project titled Unsupervised Learning - K Means Clustering on data of all countries based on their socio-economical factors. The HELP organisation is looking to provide financial aid to countries which in economically backward and in direst need of the aid.
+# About:
+This repository contains the project titled Unsupervised Learning - K Means Clustering on data of all countries based on their socio-economical factors. The HELP organisation is looking to provide financial aid to countries which in economically backward and in direst need of the aid. The HELP organization has raised around USD10 million and wants to effectively manage and distribute that funding to the countries in need.
 
-The HELP organization has raised around USD10 million and wants to effectively manage and distribute that funding to the countries in need.
+The contents in this repository are explained below :- 
+* 'Categorized_Countries_World_Map.png' - World map showing countries classified in clusters with the visualization constructed using plotly 
+* 'unsupervised_learning_kmeansclustering-2.ipynb' - Python notebook containing the code
+* 'unsupervised_learning_kmeansclustering_2.pdf' - Pdf version of the python notebook containing the code
 
 # Task:
 Classify the countries in categories based on their socio-economic and health factors which determine the overall development of the country.
