@@ -24,3 +24,7 @@ For this analysis, I opted for KMeans Clustering out of the other algorithms lik
 7. Model fitting and predicting the cluster labels
 8. Exploring the characteristics of each cluster
 9. Conclusion
+
+The code for this project is in the following pdf file - [unsupervised_learning_kmeansclustering.pdf](https://github.com/Vatsal-2414/Country-Data-Kmeans-Clustering/files/10825124/unsupervised_learning_kmeansclustering.pdf)
+
+In addition, the clustered countries are highlighted in a world map which can be seen in this image file - [Categorized_Countries_World_Map.pdf](https://github.com/Vatsal-2414/Country-Data-Kmeans-Clustering/files/10825164/Categorized_Countries_World_Map.pdf)
