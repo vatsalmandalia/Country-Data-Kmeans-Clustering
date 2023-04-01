@@ -26,4 +26,4 @@ For this analysis, I opted for KMeans Clustering out of the other algorithms lik
 
 The code for this project is in the following pdf file - [unsupervised_learning_kmeansclustering.pdf](https://github.com/Vatsal-2414/Country-Data-Kmeans-Clustering/files/10825124/unsupervised_learning_kmeansclustering.pdf)
 
-In addition, the clustered countries are highlighted in a world map which can be seen in this image file - ![Categorized_Countries_World_Map](https://user-images.githubusercontent.com/63712490/221548879-8e36df83-0859-4b51-8f08-7e12ace598c4.png)
+In addition, the clustered countries are highlighted in a world map which can be seen in this image file. This world map showing the three classified groups was produced using Plotly module in Python. - ![Categorized_Countries_World_Map](https://user-images.githubusercontent.com/63712490/221548879-8e36df83-0859-4b51-8f08-7e12ace598c4.png)
