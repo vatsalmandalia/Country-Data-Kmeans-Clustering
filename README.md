@@ -1,5 +1,6 @@
 # Unsupervised Learning: K-means Clustering on Country Data
-![alt text](https://help-international.org/sites/default/files/images/CAM21488.jpg)
+<img align="center" src="https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering/assets/63712490/6213b2f5-5967-4a00-8492-40337874c07a" alt="">
+<br>
 This project focuses on Unsupervised Learning technique called K-means Clustering which is applied on socio-economic and health data of 167 countries with the aim of categorising the countries to determine their economic backwardness and eligibility for a financial aid.
 
 # Problem Statement
